@@ -376,6 +376,7 @@ export default {
   "lighthouserc.yaml": "_f_lighthouse",
   ".lighthouserc.yml": "_f_lighthouse",
   "lighthouserc.yml": "_f_lighthouse",
+  ".luarc": "_f_luarc",
   "security.md": "_f_lock",
   "security.txt": "_f_lock",
   security: "_f_lock",
