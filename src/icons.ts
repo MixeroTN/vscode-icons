@@ -745,6 +745,7 @@ const icons: Icon = {
   ...icon("turborepo"),
   ...icon("steadybit"),
   ...icon("tobi"),
+  ...icon("luarc").
 };
 
 export default icons;
